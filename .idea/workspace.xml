@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b793bb5a-57c1-4927-84eb-bf94b1873b2f" name="Changes" comment="?" />
+    <list default="true" id="b793bb5a-57c1-4927-84eb-bf94b1873b2f" name="Changes" comment="?">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oscillators.py" beforeDir="false" afterPath="$PROJECT_DIR$/oscillators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wave.py" beforeDir="false" afterPath="$PROJECT_DIR$/wave.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -237,6 +243,9 @@
       <workItem from="1650022959031" duration="2506000" />
       <workItem from="1650044387521" duration="1054000" />
       <workItem from="1650045487936" duration="149000" />
+      <workItem from="1650045698969" duration="415000" />
+      <workItem from="1650046146093" duration="178000" />
+      <workItem from="1650117949847" duration="3604000" />
     </task>
     <task id="LOCAL-00001" summary="?">
       <created>1650045388553</created>
@@ -270,7 +279,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="?" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/synthesizer$main.coverage" NAME="main Coverage Results" MODIFIED="1650045318381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/synthesizer$main.coverage" NAME="main Coverage Results" MODIFIED="1650121577354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/synthesis$main.coverage" NAME="main Coverage Results" MODIFIED="1647205713405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
